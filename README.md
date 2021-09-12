@@ -14,7 +14,7 @@ This project is used in Devera Flutter course to demonstrate how to use ICON SDK
 
 ## Interface
 
-<img src="interface_README/home.png">
+<img src="interface_README/welcome.png">
 
 <img src="interface_README/signup.png">
 
