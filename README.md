@@ -14,7 +14,7 @@ This project is used in Devera Flutter course to demonstrate how to use ICON SDK
 
 ## Interface
 
-<img src="https://github.com/tranvinh13/whollet_wallet/blob/main/interface_README/welcome.png">
+<img src="interface_README/home.png">
 
 <img src="https://github.com/tranvinh13/whollet_wallet/blob/main/interface_README/signup.png">
 
