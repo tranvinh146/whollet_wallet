@@ -16,11 +16,11 @@ This project is used in Devera Flutter course to demonstrate how to use ICON SDK
 
 <img src="interface_README/home.png">
 
-<img src="https://github.com/tranvinh13/whollet_wallet/blob/main/interface_README/signup.png">
+<img src="interface_README/signup.png">
 
-<img src="https://github.com/tranvinh13/whollet_wallet/blob/main/interface_README/login.png">
+<img src="interface_README/login.png">
 
-<img src="https://github.com/tranvinh13/whollet_wallet/blob/main/interface_README/home.png">
+<img src="interface_README/home.png">
 
 
 ## Pub Packages
